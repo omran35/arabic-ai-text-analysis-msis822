@@ -1,0 +1,16 @@
+﻿method,column,rows,missing,blank_strings,non_string_non_null,exact_duplicate_non_null_cells,exact_duplicate_wide_rows
+by_polishing,original_abstract,2851,0,0,0,0,0
+by_polishing,allam_generated_abstract,2851,0,0,0,0,0
+by_polishing,jais_generated_abstract,2851,0,0,0,0,0
+by_polishing,llama_generated_abstract,2851,0,0,0,0,0
+by_polishing,openai_generated_abstract,2851,0,0,0,0,0
+from_title,original_abstract,2963,0,0,0,0,0
+from_title,allam_generated_abstract,2963,0,0,0,0,0
+from_title,jais_generated_abstract,2963,0,0,0,0,0
+from_title,llama_generated_abstract,2963,0,0,0,0,0
+from_title,openai_generated_abstract,2963,0,0,0,0,0
+from_title_and_content,original_abstract,2574,0,0,0,0,0
+from_title_and_content,allam_generated_abstract,2574,0,0,0,0,0
+from_title_and_content,jais_generated_abstract,2574,0,0,0,3,0
+from_title_and_content,llama_generated_abstract,2574,0,0,0,0,0
+from_title_and_content,openai_generated_abstract,2574,0,0,0,0,0

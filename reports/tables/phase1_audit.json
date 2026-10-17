@@ -1,0 +1,12 @@
+{
+  "dataset_id": "KFUPM-JRCAI/arabic-generated-abstracts",
+  "revision": "584e43a346914a4cb1a51f9679f903284b65c36e",
+  "source_rows": 8388,
+  "raw_text_slots": 41940,
+  "invalid_slots": 0,
+  "no_arabic_rows": 4,
+  "conflicting_rows": 117,
+  "exact_duplicate_rows_removed": 5341,
+  "unique_texts": 36478,
+  "source_families_after_linking": 2991
+}

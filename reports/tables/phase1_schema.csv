@@ -1,0 +1,16 @@
+﻿method,column,dtype
+by_polishing,original_abstract,str
+by_polishing,allam_generated_abstract,str
+by_polishing,jais_generated_abstract,str
+by_polishing,llama_generated_abstract,str
+by_polishing,openai_generated_abstract,str
+from_title,original_abstract,str
+from_title,allam_generated_abstract,str
+from_title,jais_generated_abstract,str
+from_title,llama_generated_abstract,str
+from_title,openai_generated_abstract,str
+from_title_and_content,original_abstract,str
+from_title_and_content,allam_generated_abstract,str
+from_title_and_content,jais_generated_abstract,str
+from_title_and_content,llama_generated_abstract,str
+from_title_and_content,openai_generated_abstract,str

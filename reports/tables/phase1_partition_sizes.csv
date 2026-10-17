@@ -1,0 +1,4 @@
+﻿partition,Human,AI,total,percent_of_texts
+train,2069,23508,25577,70.12
+validation,445,4989,5434,14.9
+test,447,5020,5467,14.99
