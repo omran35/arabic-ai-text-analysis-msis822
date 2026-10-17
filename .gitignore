@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# MSIS822 generated datasets and caches (regenerate from the notebook)
+/data/raw/*
+/data/processed/*
+/data/external/*
+!/data/**/.gitkeep
+/submission_results/
