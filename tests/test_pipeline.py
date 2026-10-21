@@ -5,7 +5,7 @@ import unittest
 
 import pandas as pd
 
-from src.analysis import linguistic_stats, ngram_counts
+from src.exploratory_analysis import linguistic_stats, ngram_counts
 from src.data_preparation import (
     check_column_consistency, combine_datasets, load_raw_datasets,
     prepare_labeled_texts, deduplicate_corpus, reserve_partitions,
