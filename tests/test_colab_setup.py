@@ -11,7 +11,7 @@ import unittest
 from unittest.mock import patch
 
 ROOT = Path(__file__).resolve().parents[1]
-NOTEBOOK = ROOT / 'notebooks/MSIS822_Phase1_Phase2_Arabic_AI.ipynb'
+NOTEBOOK = ROOT / 'notebooks/phases_1_2_preprocessing_eda.ipynb'
 
 
 class ColabSetupTests(unittest.TestCase):
